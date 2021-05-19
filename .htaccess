@@ -1,5 +1,7 @@
 DirectoryIndex home.php
 
+AddType application/x-httpd-php .html .htm
+
 RewriteEngine on
 
 Options +MultiViews
