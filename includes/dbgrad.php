@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','portfolio');
+define('DB_HOST','sql104.epizy.com');
+define('DB_USER','epiz_28651210');
+define('DB_PASS','IjVhXAjeDfuO');
+define('DB_NAME','epiz_28651210_portfolio');
 // Establish database connection.
 try
 {
