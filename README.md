@@ -1,6 +1,6 @@
 # Kaushik Banerjee Portfolio
 
-Metronal comes with a very attractive, simple and beautiful design with the effectiveness of colorful simplicity. 
+My portfolio comes with a very attractive, simple and beautiful design with the effectiveness of colorful simplicity. 
 This is a responsive design on all devices such as PCs, laptops, touch screens, tablets and smartphones.
 
 Features
